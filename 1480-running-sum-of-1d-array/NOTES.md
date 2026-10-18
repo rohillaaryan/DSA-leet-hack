@@ -1,0 +1,1 @@
+this was the first approach tat came to mind as i was thinking of the most basic method.
